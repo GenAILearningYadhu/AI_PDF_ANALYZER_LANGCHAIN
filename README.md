@@ -1,4 +1,5 @@
 **AI PDF ANALYZER**
+
 This is an interactive application built using LangChain, Streamlit, FAISS, and Ollama. The app allows users to upload a PDF file and ask questions about its content. The system retrieves relevant information from the PDF and generates accurate, context-aware answers using a locally hosted LLM.
 
 **Key Features:**
