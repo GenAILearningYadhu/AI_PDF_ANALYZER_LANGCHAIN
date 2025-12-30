@@ -31,14 +31,20 @@ An interactive application built using LangChain, Streamlit, FAISS, and Ollama. 
 
 **Getting Started:**
 Clone the repository:
+
 Bash
+
 git clone https://github.com/yourusername/AI_PDF_Analyzer_Langchain.git
 cd AI_PDF_Analyzer_Langchain
 
 Install dependencies:
+
 Bash
+
 pip install -r requirements.txt
 
 Run the app:
+
 Bash
+
 streamlit run main.py
