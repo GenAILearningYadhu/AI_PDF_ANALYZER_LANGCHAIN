@@ -1,0 +1,14 @@
+# Virtual environments
+.venv
+
+# Environment variables
+.env*
+
+# OS / Editor files
+.DS_Store
+.vscode/
+.idea/
+
+#other
+nist.ai_sample_pdf.pdf
+
